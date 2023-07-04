@@ -1,0 +1,1 @@
+go run .\main.go  -httping  -url https://uwcdn.ihghotel.cn?password=seasame-open-the-door
